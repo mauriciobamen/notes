@@ -1,6 +1,6 @@
 [Git](index.md)
 [Javascript](javascript.md)
-# Git
+# Javascript
 
 ## How to delete a branch remotely?
 ```
