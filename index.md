@@ -4,9 +4,7 @@
 #### this are my notes
 ###### this are my notes
 hi -->
-[Git](index.md)
-[Javascript](javascript.md)
-
+[Git](index.md)|[Javascript](javascript.md)|[Java](index.md)|[Bootstrap](javascript.md)|
 # Git
 
 ## How to delete a branch remotely?

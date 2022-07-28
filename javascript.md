@@ -1,5 +1,5 @@
-[Git](index.md)
-[Javascript](javascript.md)
+[Git](index.md)|[Javascript](javascript.md)|[Java](index.md)|[Bootstrap](javascript.md)|
+
 # Javascript
 
 ## How to delete a branch remotely?
