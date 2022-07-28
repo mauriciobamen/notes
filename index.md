@@ -4,7 +4,7 @@
 #### this are my notes
 ###### this are my notes
 hi -->
-<link rel="stylesheet" href="style.css" type="text/css" />
+<!-- <link rel="stylesheet" href="style.css" type="text/css" /> -->
 
 [Git](index.md) | [Javascript](javascript.md) | [Java](index.md) | [Bootstrap](javascript.md) | 
 
