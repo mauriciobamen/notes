@@ -1,4 +1,4 @@
-[Git](index.md)|[Javascript](javascript.md)|[Java](index.md)|[Bootstrap](javascript.md)|
+[Git](index.md) | [Javascript](javascript.md) | [Java](index.md) | [Bootstrap](javascript.md) | 
 
 # Javascript
 
