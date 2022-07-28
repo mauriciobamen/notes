@@ -6,7 +6,6 @@
 hi -->
 
 # Git
----
 
 ## How to delete a branch remotely?
 ```
