@@ -5,6 +5,19 @@
 ###### this are my notes
 hi -->
 
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+# Markdown heading styles {#identifier .heading1}
+
+<h1>
+    Markdown h1 styles
+</h1>
+<h2>
+    Markdown h2 styles
+</h2>
+
 [Git](index.md) | [Javascript](javascript.md) | [Java](index.md) | [Bootstrap](javascript.md) | 
 
 # Git
