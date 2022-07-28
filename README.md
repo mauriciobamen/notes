@@ -1,1 +1,1 @@
-# This are my note of many technologies
+# This are my notes of many technologies
