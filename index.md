@@ -1,12 +1,10 @@
 [Git](index.md) | [Javascript](javascript.md) | [Java](index.md) | [Bootstrap](javascript.md) | 
 
----
-title: Git Notes
----
-
 # Git
 
-# How tos
+# Git - How-tos
+
+# Git - Notes
 
 ## How to delete a branch remotely?
 Execute:
