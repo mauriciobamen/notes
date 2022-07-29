@@ -1,15 +1,12 @@
-<!-- # My notes
-
-### this are my notes
-#### this are my notes
-###### this are my notes
-hi -->
-<!-- <link rel="stylesheet" href="style.css" type="text/css" /> -->
-
 [Git](index.md) | [Javascript](javascript.md) | [Java](index.md) | [Bootstrap](javascript.md) | 
+
+---
+title: Git Notes
+---
 
 # Git
 
+# How tos
 
 ## How to delete a branch remotely?
 Execute:
@@ -56,7 +53,7 @@ It is possible to get the value from the `config` `remote.orginin.url` variable 
 ```
 git config –get remote.origin.url
 ```
-##### Result
+#### Result
 ```
 https://github.com/mauriciobamen/github-upload3.git
 ```
