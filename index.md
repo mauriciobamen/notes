@@ -20,6 +20,45 @@ git push <remote_name> --delete <branch_name>
 * [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
 <br><br>
 
+## How to check the value of origin?
+It is possible to get the value from the `config` `remote.orginin.url` variable executing this line: 
+```
+git config –get remote.origin.url
+```
+##### Result
+```
+https://github.com/mauriciobamen/github-upload3.git
+```
+To get the detail of fetch and push values, execute: 
+```
+git remote -v
+```
+##### Result
+```
+origin  https://github.com/mauriciobamen/github-upload3.git (fetch)
+origin  https://github.com/mauriciobamen/github-upload3.git (push)
+```
+
+##### References
+* [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)
+<br><br>
+
+
+
+
+ 
+
+Getting the value from the config remote.orginin.url variable `git config –get remote.origin.url`, this is the result. 
+
+https://github.com/mauriciobamen/github-upload3.git
+
+`git remote -v` details fetch and push values. 
+
+origin  https://github.com/mauriciobamen/github-upload3.git (fetch)
+origin  https://github.com/mauriciobamen/github-upload3.git (push)
+
+
+
 ## How to delete a branch remotely?
 ```
 git push <remote_name> --delete <branch_name>
